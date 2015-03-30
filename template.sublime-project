@@ -4,6 +4,8 @@
 		{
 			"follow_symlinks": true,
 			"path": "/Library/WebServer/Documents",
+      "folder_exclude_patterns": ["css", "css"],
+      "folder_exclude_patterns": ["fonts", "fonts"],
       "folder_exclude_patterns": ["images", "css/fonts"],
       "file_exclude_patterns": ["*.ico"]
 		}

@@ -16,7 +16,7 @@
     "single_line": false
   }
 }, {
-  "keys": ["ctrl+alt+r"],
+  "keys": ["ctrl+alt+o"],
   "command": "reveal_in_side_bar"
 }, {
   "keys": ["ctrl+alt+p"],
