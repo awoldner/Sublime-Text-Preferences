@@ -1,0 +1,24 @@
+[{
+  "keys": ["ctrl+alt+w"],
+  "command": "sass_beautify"
+}, {
+  "keys": ["ctrl+alt+f"],
+  "command": "js_format",
+  "context": [{
+    "key": "selector",
+    "operator": "equal",
+    "operand": "source.js,source.json"
+  }]
+}, {
+  "keys": ["ctrl+alt+r"],
+  "command": "reindent",
+  "args": {
+    "single_line": false
+  }
+}, {
+  "keys": ["ctrl+alt+r"],
+  "command": "reveal_in_side_bar"
+}, {
+  "keys": ["ctrl+alt+p"],
+  "command": "autoprefixer"
+}]

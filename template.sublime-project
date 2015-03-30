@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Library/WebServer/Documents",
+      "folder_exclude_patterns": ["images", "css/fonts"],
+      "file_exclude_patterns": ["*.ico"]
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"CSS Snippets",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"HTML Snippets",
+		"JsFormat",
+		"Package Control",
+		"PHP-Twig",
+		"Predawn",
+		"Sass",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Syntax Highlighting for Sass"
+	]
+}
